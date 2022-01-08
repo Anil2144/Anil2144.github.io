@@ -50,10 +50,6 @@ a {
   .top-bar a {
     color: #fdfdfd; }
   
-.logo{
-  padding-top: 500px;
-}
-
 .site-navbar {
   margin-bottom: 0px;
   z-index: 1999;
@@ -73,13 +69,7 @@ a {
         float: left;
         position: relative; } }
   .site-logo{
-    font-size: 2rem;
-    text-transform: uppercase;
-    font-weight: 900;
-    line-height: 0;
-    margin: 0;
-    padding-top: 50px;
-    padding-left:50px;
+    padding-left:70px;
     z-index: 3;
     position: absolute;
   }
@@ -477,16 +467,25 @@ a {
           float: right;
       }
       
-      @media (max-width: 450px) {
+      @media (max-width: 480px) {
           .box {
-              height: 200px;
+              height: 400px;
+          }
+          .img1{
+            height: 70%;
+          }
+          .site-logo{
+            padding-left:10px;
+            z-index: 3;
+            position: absolute;
+            width: 80%;
           }
       }
       
       @media (max-width: 950px) and (min-width: 450px) {
           .box {
               text-align: center;
-              height: 180px;
+              height: 600px;
           }
       }
       
@@ -595,8 +594,8 @@ a:hover {
       }
       
       .text{
-          font-size: 13px;
-          color: #545454;
+          font-size: 17px;
+          color: #000000;
           line-height: 30px;
           text-align: justify;
           margin-bottom: 40px;
