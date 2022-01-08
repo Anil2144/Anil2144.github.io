@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="375pt" height="375pt" viewBox="0 0 375 375">
+<g enable-background="new">
+<clipPath id="cp0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1593.75 L 0 1593.75 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M 0 0 L 500 0 L 500 510 L 0 510 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M 0 0 L 500 0 L 500 500 L 0 500 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1562.5 L 0 1562.5 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<path transform="matrix(.75,0,0,.75,-10.918544,-9.618718)" d="M 0 0 L 529 0 L 529 526 L 0 526 Z " fill="#1a2451"/>
+</g>
+<clipPath id="cp2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1562.5 L 0 1562.5 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp2)">
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 46.897626 104.205768)" font-size="50.66" font-family="Forum"><tspan y="39" x="27.03125 56.311517 90.353488 126.62432 143.39247 171.40633 189.03563 220.84871 249.87569 285.53868 321.20164">SUNIL REDDY</tspan></text>
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 46.897626 104.205768)" font-size="50.66" font-family="Forum"><tspan y="88" x="168.0625">&#x0026;</tspan></text>
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 46.897626 104.205768)" font-size="50.66" font-family="Forum"><tspan y="137" x="34.984376 69.33026 98.61052 127.890789 170.8989 206.91645 223.68459 258.03047 286.1963 315.22328">ASSOCIATES</tspan></text>
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 47.981874 247.80483)" font-size="21" font-family="Forum"><tspan y="18" x="104.5 124.932949 145.3449 165.08486 183.77481 200.95276 218.4877 237.17765 254.7126">CHARTERED</tspan></text>
+<g id="Layer-1" data-name="P">
+</g>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 47.981874 247.80483)" font-size="21" font-family="Forum"><tspan y="42" x="81.5625 101.30245 121.7354 142.16835 165.49927 185.11322 205.65116 222.8291 242.56906 263.107 280.28498">ACCOUNTANTS</tspan></text>
+</g>
+<clipPath id="cp3">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 156.25 374.53837 L 1406.25 374.53837 L 1406.25 387.03837 L 156.25 387.03837 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp3)">
+<path transform="matrix(.75,0,0,.75,37.5,89.889209)" d="M 0 0 L 400 0 L 400 4 L 0 4 Z " fill="#ffbd4a"/>
+</g>
+<clipPath id="cp4">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 156.25 957.48239 L 1406.25 957.48239 L 1406.25 969.98239 L 156.25 969.98239 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp4)">
+<path transform="matrix(.75,0,0,.75,37.5,229.79576)" d="M 0 0 L 400 0 L 400 4 L 0 4 Z " fill="#ffbd4a"/>
+</g>
+</g>
+</svg>
